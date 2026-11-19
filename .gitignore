@@ -1,0 +1,25 @@
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+# IDE
+.idea/
+.vscode/
+*.iml
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / local
+*.env
+.env.*
+**/local.properties
+
+# Coverage / misc
+coverage/
+*.log
